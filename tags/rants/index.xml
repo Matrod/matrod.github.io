@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rants on Inner Daemons</title>
+    <link>https://www.innerdaemons.com/tags/rants/</link>
+    <description>Recent content in Rants on Inner Daemons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&amp;copy; 2020 | For those Daemons inside us</copyright>
+    <lastBuildDate>Sat, 27 Jun 2015 13:31:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.innerdaemons.com/tags/rants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What´s the point?</title>
+      <link>https://www.innerdaemons.com/whats-the-point/</link>
+      <pubDate>Sat, 27 Jun 2015 13:31:57 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/whats-the-point/</guid>
+      <description>Thinking about the myriad of things I do in my life, this simple question popped out: What´s the point?
+What´s the point of living? Of searching for the truth? Of trying to be happy? Of trying not to be sad? Of working? Of having hobbies? Of not having them? Of having sex? Of being celibate? Of traveling? Of being rich? Of being poor? Of being frustrated? Of being ecstatic? Of dying?</description>
+    </item>
+    
+  </channel>
+</rss>

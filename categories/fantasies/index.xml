@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantasies on Inner Daemons</title>
+    <link>https://www.innerdaemons.com/categories/fantasies/</link>
+    <description>Recent content in Fantasies on Inner Daemons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&amp;copy; 2020 | For those Daemons inside us</copyright>
+    <lastBuildDate>Thu, 13 Aug 2009 10:08:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.innerdaemons.com/categories/fantasies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Powerful Daemons</title>
+      <link>https://www.innerdaemons.com/powerful-daemons/</link>
+      <pubDate>Thu, 13 Aug 2009 10:08:07 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/powerful-daemons/</guid>
+      <description>Sometimes is difficult to tame those daemons that have something to do with our more primal instincts: sex, rage or survival. These days I´ve been recalling a book I read many years ago, where the author described a society based on a closed-circuit life, this is, birth, life and dead inside a huge building, without ever going outdoors. People there were heavily divided by their abilities. The most successful ones lived higher, the others, lower.</description>
+    </item>
+    
+  </channel>
+</rss>

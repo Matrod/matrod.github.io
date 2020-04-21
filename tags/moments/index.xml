@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moments on Inner Daemons</title>
+    <link>https://www.innerdaemons.com/tags/moments/</link>
+    <description>Recent content in Moments on Inner Daemons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&amp;copy; 2020 | For those Daemons inside us</copyright>
+    <lastBuildDate>Mon, 27 May 2013 02:34:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.innerdaemons.com/tags/moments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fleeting moments</title>
+      <link>https://www.innerdaemons.com/fleeting-moments/</link>
+      <pubDate>Mon, 27 May 2013 02:34:10 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/fleeting-moments/</guid>
+      <description>It’s kind of weird to feel I’m in the eye of the storm. She sleeps peacefully with our cat on her side and I feel free and content just for a brief period of time, feeling that all our problems, fights, disagreements, tears, sadness and crazy feelings just don’t exist. It’s like observing them from a far distance, watching them in a blurry fashion. Perhaps life is about these moments and nothing else.</description>
+    </item>
+    
+  </channel>
+</rss>

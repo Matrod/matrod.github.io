@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tension on Inner Daemons</title>
+    <link>https://www.innerdaemons.com/tags/tension/</link>
+    <description>Recent content in Tension on Inner Daemons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&amp;copy; 2020 | For those Daemons inside us</copyright>
+    <lastBuildDate>Mon, 28 Apr 2014 23:44:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.innerdaemons.com/tags/tension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fearful Blues</title>
+      <link>https://www.innerdaemons.com/fearful-blues/</link>
+      <pubDate>Mon, 28 Apr 2014 23:44:45 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/fearful-blues/</guid>
+      <description>It happens from time to time. Everything seems to be going smoothly and then, a dark and long shadow appears out of nowhere (well, it comes from the same place almost all the times), to haunt me yet again. I used to think that as long as I did well and the years just passed, accumulating experience, the shadow was less likely to return. I was wrong again. Perhaps the only thing left to do is to just accept its existence and deal with it.</description>
+    </item>
+    
+  </channel>
+</rss>

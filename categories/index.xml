@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Inner Daemons</title>
+    <link>https://www.innerdaemons.com/categories/</link>
+    <description>Recent content in Categories on Inner Daemons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&amp;copy; 2020 | For those Daemons inside us</copyright>
+    <lastBuildDate>Mon, 25 Apr 2016 03:46:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.innerdaemons.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Thoughts</title>
+      <link>https://www.innerdaemons.com/categories/personal-thoughts/</link>
+      <pubDate>Mon, 25 Apr 2016 03:46:07 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/categories/personal-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantasies</title>
+      <link>https://www.innerdaemons.com/categories/fantasies/</link>
+      <pubDate>Thu, 13 Aug 2009 10:08:07 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/categories/fantasies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://www.innerdaemons.com/categories/technology/</link>
+      <pubDate>Wed, 16 Nov 2005 17:34:31 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://www.innerdaemons.com/categories/politics/</link>
+      <pubDate>Thu, 17 Mar 2005 22:53:49 +0000</pubDate>
+      
+      <guid>https://www.innerdaemons.com/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
